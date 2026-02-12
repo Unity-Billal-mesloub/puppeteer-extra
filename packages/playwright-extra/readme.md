@@ -1,6 +1,6 @@
 # playwright-extra [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/berstend/puppeteer-extra/test.yml?branch=master&event=push)](https://github.com/berstend/puppeteer-extra/actions) [![Discord](https://img.shields.io/discord/737009125862408274)](https://extra.community) [![npm](https://img.shields.io/npm/v/playwright-extra.svg)](https://www.npmjs.com/package/playwright-extra)
 
-> A modular plugin framework for [playwright](https://github.com/microsoft/playwright) to enable cool [plugins](#plugins) through a clean interface.
+> A modular plugin framework for [playwright](https://github.com/Unity-Billal-mesloub/playwright) to enable cool [plugins](#plugins) through a clean interface.
 
 ## Installation
 
@@ -256,27 +256,21 @@ firefox.launch({ headless: false }).then(async browser => {
 
 **Notes**
 
-- If you're in need of adblocking use [this package](https://www.npmjs.com/package/@cliqz/adblocker-playwright) or [block resources natively](https://github.com/berstend/puppeteer-extra/wiki/Block-resources-without-request-interception)
+- If you're in need of adblocking use [this package](https://www.npmjs.com/package/@cliqz/adblocker-playwright) or [block resources natively](https://github.com/Unity-Billal-mesloub/puppeteer-extra/wiki/Block-resources-without-request-interception)
 - We're focussing on compatiblity with existing plugins at the moment, more documentation on how to write your own playwright-extra plugins will follow
 
 ---
 
 ## Contributors
 
-<a href="https://github.com/berstend/puppeteer-extra/graphs/contributors">
+<a href="https://github.com/Unity-Billal-mesloub/puppeteer-extra/graphs/contributors">
   <img src="https://contributors-img.firebaseapp.com/image?repo=berstend/puppeteer-extra" />
 </a>
-
----
-
-## License
-
-Copyright © 2018 - 2023, [berstend̡̲̫̹̠̖͚͓̔̄̓̐̄͛̀͘](https://github.com/berstend). Released under the MIT License.
 
 <!--
   Reference links
 -->
 
-[playwright-extra]: https://github.com/berstend/puppeteer-extra/tree/master/packages/playwright-extra
-[puppeteer-extra]: https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra
-[`puppeteer-extra`]: https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra
+[playwright-extra]: https://github.com/Unity-Billal-mesloub/puppeteer-extra/tree/master/packages/playwright-extra
+[puppeteer-extra]: https://github.com/Unity-Billal-mesloub/puppeteer-extra/tree/master/packages/puppeteer-extra
+[`puppeteer-extra`]: https://github.com/Unity-Billal-mesloub/puppeteer-extra/tree/master/packages/puppeteer-extra
